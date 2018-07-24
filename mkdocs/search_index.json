@@ -1,0 +1,39 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\nMASCOT\n \n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n       History.md\n       presentfuture.md\n        releasenotes.md          \n                    # Other markdown pages, images and other files\n     img/screenshot.png",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org . MASCOT",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n       History.md\n       presentfuture.md\n        releasenotes.md          \n                    # Other markdown pages, images and other files\n     img/screenshot.png",
+            "title": "Project layout"
+        },
+        {
+            "location": "/userguide/History/",
+            "text": "Android is a mobile operating system developed by Google, based on a modified version of the     Linux kernel and other open source software and designed primarily for touchscreen mobile devices such as smartphones and tablets.\n\n\n\n\nInitially developed by Android Inc., which Google bought in 2005, Android was unveiled in 2007, with the first commercial Android device launched in September 2008. The operating system has since gone through multiple major releases, with the current version being 8.1 \"Oreo\", released in December 2017. The core Android source code is known as Android Open Source Project (AOSP), and is primarily licensed under the Apache License. \n\n\nmore history\n.",
+            "title": "History"
+        },
+        {
+            "location": "/userguide/presentfuture/",
+            "text": "Interface\n\n\n\n\nAndroid's default user interface is mainly based on direct manipulation, using touch inputs that loosely correspond to real-world actions, like swiping, tapping, pinching, and reverse pinching to manipulate on-screen objects, along with a virtual keyboard\n.\nGame controllers and full-size physical keyboards are supported via Bluetooth or USB.The response to user input is designed to be immediate and provides a fluid touch interface, often using the vibration capabilities of the device to provide haptic feedback to the user\n. Internal hardware, such as accelerometers, gyroscopes and proximity sensors are used by some applications to respond to additional user actions, for example adjusting the screen from portrait to landscape depending on how the device is oriented, or allowing the user to steer a vehicle in a racing game by rotating the device, simulating control of a steering wheel. \n\nmore\n.",
+            "title": "Present and future"
+        },
+        {
+            "location": "/more/release-notes/",
+            "text": "Name\n\n\nversion\n\n\n\n\n\n\n\n\n\n\n(No codename)\n\n\n1.0\n\n\n\n\n\n\nPetit Four\n\n\n1.1\n\n\n\n\n\n\nCupcake\n\n\n1.5\n\n\n\n\n\n\nDonut\n\n\n1.6\n\n\n\n\n\n\nEclair\n\n\n2.0 \u2013 2.1\n\n\n\n\n\n\nFroyo\n\n\n2.2 \u2013 2.2.3\n\n\n\n\n\n\nGingerbread\n\n\n2.3 \u2013 2.3.7\n\n\n\n\n\n\nHoneycomb\n\n\n3.0 \u2013 3.2.6\n\n\n\n\n\n\nIce Cream Sandwich\n\n\n4.0 \u2013 4.0.4\n\n\n\n\n\n\nJelly Bean\n\n\n4.1 \u2013 4.3.1\n\n\n\n\n\n\nKitKat\n\n\n4.4 \u2013 4.4.4\n\n\n\n\n\n\nLollipop\n\n\n5.0 \u2013 5.1.1\n\n\n\n\n\n\nMarshmallow\n\n\n6.0 - 6.0.1\n\n\n\n\n\n\nNougat\n\n\n7.0 \u2013 7.1.2\n\n\n\n\n\n\nOreo\n\n\n8.0 \u2013 8.1\n\n\n\n\n\n\nAndroid P\n\n\nnot released",
+            "title": "Release Notes"
+        }
+    ]
+}
